@@ -1,0 +1,76 @@
+form {        
+  /* padding: 0px 70px; */
+}
+      tr, td, th{
+        padding: 2.5% 25px;
+        font-size: 20px;
+        height: 85%;
+      }
+      
+    .allbutton input[type="submit"]{
+      background-color:#0A2558 ; 
+      border: solid; 
+      padding: 14px 50px; 
+      color: white; 
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    .table1 {
+      border-color: #0A2558;
+    }
+    .table3{
+      border: 1px solid #0A2558;
+      border-collapse: collapse;
+    }
+    ::placeholder {
+      color: lightgray;
+    }
+
+		.scroll{
+			overflow-y: scroll;
+			height: 640px;
+		}
+		.table2{
+			background-color: #0A2558;
+			border-radius: 4px;
+      color: white;
+		}
+		.title{
+			position: fixed;
+		}
+    .log_out{
+      /* float: left; */
+      position: fixed;
+
+    }
+    .w3-input{
+      padding:8px;
+      display:block;
+      border:none;
+      border-bottom:1px solid #ccc;
+      width:100%;
+    }
+    .td{
+      width: 70%;
+    }
+    
+    .bgheading{
+      background-color: #0A2558;
+    }
+    .heading{
+      color: white;
+    }  
+    .button{
+      background-color:#0A2558 ; 
+      border: solid; 
+      padding: 14px 15px; 
+      color: white; 
+      cursor: pointer;
+    }
+    .size{
+        font-size: 20px;
+    }
+
+    .table4{
+        padding: 10px 10px;
+    }
